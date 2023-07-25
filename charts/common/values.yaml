@@ -7,7 +7,7 @@ controllerAnnotations: {}
 # Set labels on the deployment/statefulset/daemonset
 controllerLabels: {}
 
-replicas: 1
+replicas: 2
 
 strategy:
   ## For Deployments, valid values are Recreate and RollingUpdate
